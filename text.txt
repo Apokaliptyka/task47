@@ -1,0 +1,6 @@
+README.md is the go-to file for most projects on GitHub. The file contains Markdown-formatted text that explains the project basics and points you in the right direction when it comes to things like:
+
+installing the project
+editing the source code
+building the project
+Where to find more documentation
